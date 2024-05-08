@@ -12,7 +12,7 @@ title                    : "Alyssa Stasse"
 title_separator          : "-"
 name                     : &name "Alyssa Stasse"
 description              : &description "personal description"
-url                      : https://astasse.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://astasse.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "astasse/astasse.github.io"
 
@@ -24,53 +24,53 @@ author:
   avatar           : "profile.png"
   name             : "Alyssa Stasse"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD candidate studying population genomics, transcriptional responses, and epigenetics of eastern oysters in Great Bay Estuary, NH."
   location         : "Durham, NH, USA"
   employer         : "University of New Hampshire"
-  uri              : # URL
+  uri              : 
   email            : "alyssa.stasse@unh.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : 
   googlescholar    : "https://scholar.google.com/citations?user=c-GxdqYAAAAJ&hl=en&oi=ao"
-  impactstory      : # URL
+  impactstory      : 
   orcid            : "https://orcid.org/0009-0009-3444-2409"
-  pubmed           : # URL
+  pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Alyssa-Stasse"
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  bitbucket        :  
+  codepen          : 
+  dribbble         : 
   github           : "astasse"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           :  
+  stackoverflow    :    
 
   # Social media
   bluesky          : "alyssastasse.bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
+  facebook         : 
+  flickr           : 
+  foursquare       : 
+  goodreads        : 
+  google_plus      : 
+  keybase          : 
+  instagram        : 
+  lastfm           : 
+  linkedin         : 
+  mastodon         : 
+  medium           : 
+  pinterest        : 
+  soundcloud       : 
+  steam            : 
+  telegram         : 
+  tumblr           : 
   twitter          : "alyssa_stasse"
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
+  vine             : 
+  weibo            : 
+  wikipedia        : 
+  xing             : 
+  youtube          : 
+  zhihu            : 
 
 
 # Site Settings
