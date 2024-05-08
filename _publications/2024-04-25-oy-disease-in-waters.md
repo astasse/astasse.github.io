@@ -6,7 +6,7 @@ excerpt: 'In Great Bay Estuary, New Hampshire, USA, Haplosporidium nelsoni and P
 date: 2024-04-25
 venue: 'Diseases of Aquatic Organisms'
 paperurl: 'https://www.int-res.com/abstracts/dao/v158/p75-80/'
-citation: 'Stasse A, Lee BY, Brown BL (2024). <i>Haplosporidium nelsoni<i> and <i>Perkinsus marinus<i> occurrence in waters of Great Bay Estuary, New Hampshire. Dis Aquat Org 158:75-80. https://doi.org/10.3354/dao03787'
+citation: 'Stasse A, Lee BY, Brown BL (2024). Haplosporidium nelsoni and Perkinsus marinus occurrence in waters of Great Bay Estuary, New Hampshire. Dis Aquat Org 158:75-80. https://doi.org/10.3354/dao03787'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
