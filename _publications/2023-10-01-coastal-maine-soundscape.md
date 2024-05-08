@@ -6,7 +6,7 @@ excerpt: 'Identifying similarities and differences in soundscape properties amon
 date: 2023-10-01
 venue: 'The Journal of the Acoustical Society of America'
 paperurl: 'https://pubs.aip.org/asa/jasa/article/154/4_supplement/A171/2924121/Using-the-Soundscape-Code-to-compare-coastal'
-citation: 'Grant A. Milne, Jennifer Miksis-Olds, Alyssa Stasse, Bo-Young Lee, Dylan Wilford, Shaurya Baruah, Bonnie Brown; Using the Soundscape Code to compare coastal marine habitats in the Gulf of Maine. J. Acoust. Soc. Am. 1 October 2023; 154 (4_supplement): A171. https://doi.org/10.1121/10.0023165'
+citation: '1. Milne, G. A. et al. Using the Soundscape Code to compare coastal marine habitats in the Gulf of Maine. The Journal of the Acoustical Society of America 154, A171 (2023) doi:10.1121/10.0023165'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
