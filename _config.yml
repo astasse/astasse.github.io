@@ -21,7 +21,7 @@ repository               : "astasse/astasse.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Alyssa Stasse"
   pronouns         : "she/her"  
   bio              : "PhD candidate studying population genomics, transcriptional responses, and epigenetics of eastern oysters in Great Bay Estuary, NH."
@@ -74,7 +74,7 @@ author:
 
 
 # Site Settings
-teaser                   : "headshot.jpg"
+teaser                   : "headshot.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
